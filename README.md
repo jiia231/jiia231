@@ -1,5 +1,9 @@
-# Alexander Zhabinskiy
+# 👨‍💻 Alexander Zhabinskiy
 **`Python BackEnd developer`**
+
+Hopelessly devoted to web development.  
+I adore moments when concepts become functioning programs and websites.  
+Aside from that, I enjoy traveling, cooking, and seashore promenades.
 
 ### 🛠 My tech stack
 
@@ -16,14 +20,3 @@
 <img align="left" alt="Nginx" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
 
 <br />
-
-
-#
-
-<details>
- <summary><h3>👨‍💻 About</h3></summary>
-  Hopelessly devoted to web development.
-  
-  I adore moments when concepts become functioning programs and websites.  
-  Aside from that, I enjoy traveling, cooking, and seashore promenades.
-</details>
